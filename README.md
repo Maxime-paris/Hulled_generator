@@ -5,7 +5,7 @@ Hello ! I'm Maxime, a young product designer. I coded this little software to ge
 I'm sorry as i'm not a dev, this may be a little bit raw.
 
 This is part of a larger project, that aim to build open source home products. I wish to counter planned obsolescence
-by designing products that you can build, repair and dimantle only with your hands : no glue, no screws etc.
+by designing products that you can build, repair and dismantle only with your hands : no glue, no screws etc.
 
 The website is under creation, and i'll add the link really soon ! 
 
