@@ -15,7 +15,7 @@ by designing products that you can build, repair and dismantle only with your ha
 ![alt text](https://github.com/Maxime-paris/Hulled_generator/blob/master/EXAMPLES/shell.JPG?raw=true)
 
 
-![alt text](https://github.com/Maxime-paris/Hulled_generator/blob/master/EXAMPLES/fan.JPG?raw=true)
+![alt text](https://github.com/Maxime-paris/Hulled_generator/blob/master/EXAMPLES/mini%20fan.JPG?raw=true)
 
 
 You can see some examples in the example folder.
