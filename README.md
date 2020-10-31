@@ -1,5 +1,5 @@
 # Hulled
- Parametric sheel generator for 3d printing
+ Parametric shell generator for 3d printing
 
 Hello ! I'm Maxime, a young product designer. I coded this little software to generate shells that i 3D print. 
 I'm sorry as i'm not a dev, this may be a little bit raw, but it works ! And i'll be happy to get your help to improve it :)
